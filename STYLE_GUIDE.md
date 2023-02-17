@@ -43,12 +43,12 @@ public class MyClass {
 * @return The result of the operation.
 */
 public int myMethod(int param1, int param2) {
-int result = param1 + param2;
-if (result > 10) {
-result = 10;
-}
-return result;
-}
+  int result = param1 + param2;
+    if (result > 10) {
+      result = 10;
+    }
+  return result;
+  }
 }
 
 ```
