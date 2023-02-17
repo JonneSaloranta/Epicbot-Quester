@@ -6,7 +6,7 @@ To get started, please take a moment to read and understand the following guidel
 
 ## Code of Conduct
 
-This project has a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community. By participating, you are expected to uphold this code. Please report any unacceptable behavior to [project owner].
+Just don't we a jerk.
 
 ## How to Contribute
 
@@ -25,6 +25,6 @@ Before submitting a pull request, please ensure that:
 
 ## Getting Help
 
-If you need help or have any questions, please feel free to [open an issue](https://github.com/[project owner]/Epicbot Quester/issues) or reach out to [project owner]. 
+If you need help or have any questions, please feel free to [open an issue](https://github.com/JonneSaloranta/Epicbot-Quester/issues) with appropriate tag.
 
 Thank you for your contribution!
