@@ -33,7 +33,7 @@ To use Epicbot Quester, simply run the bot and follow the on-screen instructions
 
 ## Contributing
 
-If you would like to contribute to Epicbot Quester, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+If you would like to contribute to Epicbot Quester, please see the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
 
