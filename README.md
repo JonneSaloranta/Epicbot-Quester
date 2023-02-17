@@ -2,6 +2,10 @@
 
 An Open-Source Quester bot for EpicBot-client.
 
+## Disclaimer
+
+Disclaimer: Botting in Jagex's RuneScape game is strictly against the game's rules and can result in severe consequences, including permanent bans of your account. The use of bots, macros, or other automated software to gain an unfair advantage over other players is not permitted and is considered cheating. We do not condone or endorse any form of botting in RuneScape or any other game. By engaging in botting activities, you acknowledge and accept the risk of being caught and punished according to Jagex's policies.
+
 ## Planned features
 
 - Automated quest completion
