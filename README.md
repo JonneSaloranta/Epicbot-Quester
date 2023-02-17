@@ -1,6 +1,6 @@
 # Epicbot Quester (OSRS)
 
-An Open-Source Quester bot for EpicBot-client.
+An Open-Source Quester bot(osrs) for EpicBot-client.
 
 ## Planned features
 
