@@ -20,7 +20,10 @@ To use Epicbot Quester, you will need to have the following software installed:
 ### Installing
 
 1. Download the latest release of Epicbot Quester from the releases page on GitHub.
-2. Create a scripts forlder if it doesn't exist. e.g C:\Users\%USER%\EpicBot\scripts
+2. Create a scripts forlder if it doesn't exist. 
+```
+C:\Users\%USER%\EpicBot\scripts
+```
 3. Extract the ZIP file to a EpicBot's script folder.
 4. Happy botting!
 
